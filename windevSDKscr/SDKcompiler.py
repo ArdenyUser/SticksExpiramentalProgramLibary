@@ -21,5 +21,6 @@ file1.write("jar -cf " + name + " *.java\n")
 file1.write("wget STICKSCLIENT\n")
 if powershellcompile == "TruePS1":
   for x in content_list:
-      file1.write("ps2exe " + x + ".ps1")
+      temp = "ps2exe " + x + ".ps1"
+      file1.write(temp + "/n")
 file1.close()
