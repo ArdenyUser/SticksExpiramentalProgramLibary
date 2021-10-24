@@ -10,3 +10,4 @@ cd C:
 cd C:\DEVwindows
 wget https://github.com/ArdenyUser/SticksExpiramentalProgramLibary/raw/main/windevSDKscr/SDKcompile.ps1
 wget https://github.com/ArdenyUser/SticksExpiramentalProgramLibary/raw/main/windevSDKscr/SDKcompiler.py
+wget https://github.com/ArdenyUser/SticksExpiramentalProgramLibary/raw/main/windevSDKscr/ExecuterBuilder.py
