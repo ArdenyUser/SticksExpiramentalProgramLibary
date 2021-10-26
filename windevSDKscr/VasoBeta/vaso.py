@@ -22,6 +22,8 @@ while True:
                             allowcmd = 9
                else:
                     for character in line:
-                        parser = character + previous
-                        previous = character
+                        if character != ";":
+                            paser = character + previous
+                            previous = character
+
     
